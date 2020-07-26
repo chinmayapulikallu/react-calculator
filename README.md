@@ -47,7 +47,7 @@ Before you get started, make sure you have the following software installed on y
 
 1. Click on numbers you want to calculate and operator.
 2. click on equals and it displays the results in the "Results"
-3. Polling is set to display the result if another uses and calculates values to display on DOM.
+3. Polling is set to display the result of another user's calculations.     Polling stops after 20 minutes, to reduce load on server
 
 ## Built With
 
